@@ -34,3 +34,6 @@ Votando e necessario clicar em /start, vai pedir o nome e o cpf e ao digitar amb
 ![votacao](https://github.com/user-attachments/assets/94069a55-e56f-425a-abf0-db0545315c83)
 Para escolher so clicar no candidato e clicar em confirmar:
 ![escolha candidato](https://github.com/user-attachments/assets/29c784c9-3415-492a-92f5-ae388610c707)
+Caso a eleição tenha sido encerrada vai aparecer Ver resultados ao usuario clicar em Inicar ou /Start
+![ver resultados](https://github.com/user-attachments/assets/02b240e0-b045-4c07-86e6-76b55787f6b0)
+
