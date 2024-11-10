@@ -14,5 +14,4 @@ Digitar /lista_presidente para mostrar a lista de presidentes cadastrados
 ![lista](https://github.com/user-attachments/assets/01b8e4be-4b7a-443a-8698-11935cfb365c)
 
 Para deletar um presidente digite /deletar_presidente  (senha: 1234)
-
-
+![deletarpresidente](https://github.com/user-attachments/assets/a24e09c0-7056-4581-9b5a-382ac6f8e155)
