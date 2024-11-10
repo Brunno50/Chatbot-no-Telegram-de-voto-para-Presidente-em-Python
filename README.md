@@ -13,3 +13,6 @@ vai pedir uma senha: 1234, ao digitar a senha escolha o Nome do presidente
 Digitar /lista_presidente para mostrar a lista de presidentes cadastrados
 ![lista](https://github.com/user-attachments/assets/01b8e4be-4b7a-443a-8698-11935cfb365c)
 
+Para deletar um presidente digite /deletar_presidente  (senha: 1234)
+
+
