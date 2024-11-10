@@ -32,3 +32,5 @@ Reabrir eleições digitar /reabrir  (senha:1234)
 
 Votando e necessario clicar em /start, vai pedir o nome e o cpf e ao digitar ambos vai aparecer os candidatos para ele votar(So aceita votar uma vez por cpf)
 ![votacao](https://github.com/user-attachments/assets/94069a55-e56f-425a-abf0-db0545315c83)
+Para escolher so clicar no candidato e clicar em confirmar:
+![escolha candidato](https://github.com/user-attachments/assets/29c784c9-3415-492a-92f5-ae388610c707)
