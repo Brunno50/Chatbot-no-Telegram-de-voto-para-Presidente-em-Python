@@ -30,3 +30,5 @@ Reabrir eleições digitar /reabrir  (senha:1234)
 
 # Tela Usuasrio:
 
+Votando e necessario clicar em /start, vai pedir o nome e o cpf e ao digitar ambos vai aparecer os candidatos para ele votar(So aceita votar uma vez por cpf)
+
