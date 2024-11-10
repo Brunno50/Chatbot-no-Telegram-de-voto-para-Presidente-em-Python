@@ -19,3 +19,5 @@ Para deletar um presidente digite /deletar_presidente  (senha: 1234)
 /encerrar  (senha:1234)
 Encerra as eleicoes e ao usuario inciar /start o bot aparece ver os resultados onde ao clicar nele aparece os resultados das eleicoes
 ![encerrar](https://github.com/user-attachments/assets/5dfcd868-1b4b-4dca-9a43-76fd33887612)
+![ver resultados](https://github.com/user-attachments/assets/02b240e0-b045-4c07-86e6-76b55787f6b0)
+![ver resultados2](https://github.com/user-attachments/assets/46e08e72-299c-484a-b482-3a6c91c51530)
