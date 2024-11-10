@@ -15,3 +15,7 @@ Digitar /lista_presidente para mostrar a lista de presidentes cadastrados
 
 Para deletar um presidente digite /deletar_presidente  (senha: 1234)
 ![deletarpresidente](https://github.com/user-attachments/assets/a24e09c0-7056-4581-9b5a-382ac6f8e155)
+
+/encerrar  (senha:1234)
+Encerra as eleicoes e ao usuario inciar /start o bot aparece ver os resultados onde ao clicar nele aparece os resultados das eleicoes
+![encerrar](https://github.com/user-attachments/assets/5dfcd868-1b4b-4dca-9a43-76fd33887612)
