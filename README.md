@@ -6,14 +6,13 @@ Chatbot no Telegram de voto para Presidente em Python
 
 #Feitos os passa a passos anteriores agora vamos configurar a eleição:
 
-Primeiro no bot criado clicar em Inicar ou /start e digitar /inserir_presidente
-vai pedir uma senha: 1234, ao digitar a senha escolha o Nome do presidente
+Primeiramente, no bot criado, clique em "Iniciar" ou digite "/start". Em seguida, digite "/inserir_presidente" e insira a senha: 1234. Após a autenticação, você poderá escolher o nome do presidente.
 ![addpresidente](https://github.com/user-attachments/assets/9d8402e9-6da0-4206-bca3-c3d493d5ecb4)
 
-Digitar /lista_presidente para mostrar a lista de presidentes cadastrados
+Para visualizar a lista completa de presidentes cadastrados, digite /lista_presidentes."
 ![lista](https://github.com/user-attachments/assets/01b8e4be-4b7a-443a-8698-11935cfb365c)
 
-Para deletar um presidente digite /deletar_presidente  (senha: 1234)
+Para excluir um presidente, digite /deletar_presidente seguido da senha de confirmação (1234) e do nome exato do presidente que deseja remover. Atenção: Essa ação é irreversível.
 ![deletarpresidente](https://github.com/user-attachments/assets/a24e09c0-7056-4581-9b5a-382ac6f8e155)
 
 /encerrar  (senha:1234)
