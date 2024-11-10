@@ -23,4 +23,5 @@ Encerra as eleicoes e ao usuario inciar /start o bot aparece ver os resultados o
 ![ver resultados2](https://github.com/user-attachments/assets/46e08e72-299c-484a-b482-3a6c91c51530)
 
 Reabrir eleições digitar /reabrir  (senha:1234)
+
 ![reabrir](https://github.com/user-attachments/assets/b923c036-737c-4991-b659-d2c75b67ea9c)
