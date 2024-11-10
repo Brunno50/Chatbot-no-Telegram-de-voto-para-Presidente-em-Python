@@ -27,3 +27,6 @@ Reabrir eleições digitar /reabrir  (senha:1234)
 ![reabrir](https://github.com/user-attachments/assets/b923c036-737c-4991-b659-d2c75b67ea9c)
 
 /zerar_banco (esse comando zera o banco de dados)
+
+# Tela Usuasrio:
+
